@@ -1,0 +1,4 @@
+packages:
+  - 'electron-app'
+  - 'web-player'
+
